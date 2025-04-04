@@ -42,8 +42,4 @@ Version Control: GitHub
 5️⃣ Obtain the CloudFront URL to access the live site
 
 
-## 📺 Video Walkthrough
-📌 Loom Video - Code & Structure Overview (Add my Loom video link)
 
-## 🌐 Live Site
-🔗 [Your CloudFront URL] (Replace with my actual URL after deployment)
